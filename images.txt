@@ -1,2 +1,3 @@
 juanbing/juanbing-server
 juanbing/server2026-win
+juanbing/server2026
